@@ -1,0 +1,58 @@
+[
+ 
+  {
+    "name": "KFC",
+    "time_of_delivery": 45,
+    "stars": 4,
+    "price": 60,
+    "kitchen": "FastFood",
+    "image": "img/kfc/лого.jpg",
+    "products": "kfc.json"
+  },
+  {
+    "name": "ChiBox",
+    "time_of_delivery": 35,
+    "stars": 4.1,
+    "price": 77,
+    "kitchen": "Chinese",
+    "image": "img/chibox/лого.png",
+    "products": "chibox.json"
+  },
+  {
+    "name": "Torro Pizza",
+    "time_of_delivery": 57,
+    "stars": 4.7,
+    "price": 70,
+    "kitchen": "Pizza",
+    "image": "img/torro/лого.png",
+    "products": "torro.json"
+  },
+  {
+    "name": "McDonald's",
+    "time_of_delivery": 30 ,
+    "stars": 4.9,
+    "price": 50,
+    "kitchen": "FastFood",
+    "image": "img/мак/мак.png",
+    "products": "mac.json"
+  },
+  {
+    "name": "Wasabi",
+    "time_of_delivery": 40 ,
+    "stars": 4.4,
+    "price": 75,
+    "kitchen": "Chinese",
+    "image": "img/wasabi/wasabi.jpg",
+    "products": "wasabi.json"
+  },
+  {
+    "name": "StarKebab",
+    "time_of_delivery": 25 ,
+    "stars": 4.1,
+    "price": 30,
+    "kitchen": "Kebab",
+    "image": "img/старик/старик.jpg",
+    "products": "starkebab.json"
+  }
+
+]
